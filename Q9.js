@@ -6,7 +6,6 @@ for (let i = 1; i <= 10; i++) {
     let idade = prompt("Digite sua idade: ")
     idade = parseFloat(idade)
 
-    
 if(idade<idm){
     idm = idade
     ndm = nome
